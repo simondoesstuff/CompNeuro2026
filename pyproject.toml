@@ -5,7 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 authors = [{ name = "Simon Walker", email = "simon@simonwalker.tech" }]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.3",
+    "scipy>=1.18.1",
+]
 
 [project.scripts]
 compneuro2026 = "compneuro2026:main"
