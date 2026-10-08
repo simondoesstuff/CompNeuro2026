@@ -1,20 +1,43 @@
-All contents in this repo can be run with **uv**.
-To start using `uv`, run `uv sync` to get dependencies.
-Then run a specific file like this: `uv run src/compneuro2026/lif.py`
+# APPM 4370: Computational Neuroscience
+
+All contents in this repo can be run with uv.
+**To start, run `uv sync` to get dependencies.**
 
 # HW 1
 
-Both files can be run directly with `uv` (they have main methods).
+## Problem 4(c)
 
-## Problem 4c
-
-[Code here](./src/compneuro2026/lif.py)
+```sh
+uv run src/compneuro2026/lif.py
+```
 
 ## Problem 5
 
-[Code here](./src/compneuro2026/hh_analysis.py)
+```sh
+uv run src/compneuro2026/hh_analysis.py
+```
 
 # HW 2
 
 src/compneuro2026/euler_maru.py
 src/compneuro2026/shot_noise.py
+
+# HW 3
+
+## Problem 1(c)
+
+```sh
+uv run src/compneuro2026/hw3/hw3_1c.py
+```
+
+## Problem 2(c)
+
+```sh
+uv run src/compneuro2026/hw3/hw3_2c.py
+```
+
+## Problem 4(c)
+
+```sh
+uv run src/compneuro2026/hw3/hw3_4c.py
+```
