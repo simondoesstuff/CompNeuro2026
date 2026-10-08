@@ -13,3 +13,8 @@ Both files can be run directly with `uv` (they have main methods).
 ## Problem 5
 
 [Code here](./src/compneuro2026/hh_analysis.py)
+
+# HW 2
+
+src/compneuro2026/euler_maru.py
+src/compneuro2026/shot_noise.py
