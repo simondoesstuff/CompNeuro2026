@@ -5,38 +5,47 @@ All contents in this repo can be run with uv.
 
 # HW 1
 
-## Problem 4(c)
+**Problem 4(c)**
 
 ```sh
-uv run src/compneuro2026/lif.py
+uv run src/compneuro2026/hw1/lif.py
 ```
 
-## Problem 5
+**Problem 5**
 
 ```sh
-uv run src/compneuro2026/hh_analysis.py
+uv run src/compneuro2026/hw1/hh_analysis.py
 ```
 
 # HW 2
 
-src/compneuro2026/euler_maru.py
-src/compneuro2026/shot_noise.py
+**Euler-Maruyama**
+
+```sh
+uv run src/compneuro2026/hw2/euler_maru.py
+```
+
+**Shot noise**
+
+```sh
+uv run src/compneuro2026/hw2/shot_noise.py
+```
 
 # HW 3
 
-## Problem 1(c)
+**Problem 1(c)**
 
 ```sh
 uv run src/compneuro2026/hw3/hw3_1c.py
 ```
 
-## Problem 2(c)
+**Problem 2(c)**
 
 ```sh
 uv run src/compneuro2026/hw3/hw3_2c.py
 ```
 
-## Problem 4(c)
+**Problem 4(c)**
 
 ```sh
 uv run src/compneuro2026/hw3/hw3_4c.py
@@ -44,19 +53,19 @@ uv run src/compneuro2026/hw3/hw3_4c.py
 
 # HW 4
 
-## Problem 1(c)
+**Problem 1(c)**
 
 ```sh
 uv run src/compneuro2026/hw4/hw4_1c.py
 ```
 
-## Problem 2(d)
+**Problem 2(d)**
 
 ```sh
 uv run src/compneuro2026/hw4/hw4_2d.py
 ```
 
-## Problem 3(c)
+**Problem 3(c)**
 
 ```sh
 uv run src/compneuro2026/hw4/hw4_3c.py

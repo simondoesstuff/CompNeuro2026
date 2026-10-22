@@ -5,7 +5,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 
-from compneuro2026.hh_sim import hh_sim
+from compneuro2026.hw1.hh_sim import hh_sim
 
 TMAX = 300.0
 SKIPFRAC = 0.4
