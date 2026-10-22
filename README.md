@@ -41,3 +41,23 @@ uv run src/compneuro2026/hw3/hw3_2c.py
 ```sh
 uv run src/compneuro2026/hw3/hw3_4c.py
 ```
+
+# HW 4
+
+## Problem 1(c)
+
+```sh
+uv run src/compneuro2026/hw4/hw4_1c.py
+```
+
+## Problem 2(d)
+
+```sh
+uv run src/compneuro2026/hw4/hw4_2d.py
+```
+
+## Problem 3(c)
+
+```sh
+uv run src/compneuro2026/hw4/hw4_3c.py
+```
