@@ -70,3 +70,12 @@ uv run src/compneuro2026/hw4/hw4_2d.py
 ```sh
 uv run src/compneuro2026/hw4/hw4_3c.py
 ```
+
+# HW 5
+
+```sh
+uv run src/compneuro2026/hw5/hw5_1d.py
+uv run src/compneuro2026/hw5/hw5_2d.py
+uv run src/compneuro2026/hw5/hw5_3d.py
+uv run src/compneuro2026/hw5/hw5_4c.py
+```
