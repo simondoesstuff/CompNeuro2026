@@ -79,3 +79,13 @@ uv run src/compneuro2026/hw5/hw5_2d.py
 uv run src/compneuro2026/hw5/hw5_3d.py
 uv run src/compneuro2026/hw5/hw5_4c.py
 ```
+
+# HW 6
+
+**Problems 1(c) and 2(c)**
+
+```sh
+uv run src/compneuro2026/hw6/hw6_1c.py
+uv run src/compneuro2026/hw6/hw6_2c.py
+uv run src/compneuro2026/hw6/validate.py
+```
